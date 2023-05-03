@@ -7,7 +7,7 @@ function getTodoListFromLocalStorage() {
     let parsedTodoList = JSON.parse(stringifiedTodoList);
     if (parsedTodoList === null) {
         return [];
-    } else {
+    } else { 
         return parsedTodoList;
     }
 }
