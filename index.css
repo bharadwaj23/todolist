@@ -30,7 +30,7 @@
 }
 
 .custom-button {
-    background-color: #2fbf79;
+    background-color: #1C5156;
     padding-right: 15px;
     padding-left: 15px;
     padding-top: 8px;
@@ -44,7 +44,7 @@
 }
 
 .sub-container {
-    background-color: #9c9c9c;
+    background-color: #6AC0B4;
     border-radius: 8px;
 }
 
@@ -82,7 +82,7 @@
     width: 100%;
     border-style: solid;
     border-width: 7px;
-    border-color: #2fbf79;
+    border-color: #1C5156;
     border-right: none;
     border-top: none;
     border-bottom: none;
@@ -120,7 +120,7 @@
 
 .delete-icon {
     padding: 15px;
-    color: #2fbf79;
+    color: #1C5156;
     font-size: 24px;
 }
 
